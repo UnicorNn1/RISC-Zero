@@ -1,3 +1,3 @@
 # RISC-Zero
-## [Trusted Setup Ceremony](https://dev.risczero.com/api)
+## Trusted Setup Ceremony
 Coming Soon
