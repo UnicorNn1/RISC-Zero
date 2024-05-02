@@ -1,3 +1,3 @@
 # RISC-Zero
 ## Trusted Setup Ceremony
-Coming Soon
+Ceremony contribution public
