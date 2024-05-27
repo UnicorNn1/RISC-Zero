@@ -11,9 +11,7 @@
 ### System Requirements
 | System | Minimum Requirements | 
 | ------------ | ------------ |
-| ✔️CPU |	6 vCPU|
 | ✔️RAM	| 8 GB |
-| ✔️Storage	| 250 GB |
 | ✔️Bandwidth| 25 Mbps |
 ## GitHub Account Requirements:
 You must have at least 1 publicly accessible repository.
