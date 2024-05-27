@@ -11,7 +11,7 @@
 ### System Requirements
 | System | Minimum Requirements | 
 | ------------ | ------------ |
-| ✔️CPU |	8 vCPU|
+| ✔️CPU |	6 vCPU|
 | ✔️RAM	| 8 GB |
 | ✔️Storage	| 250 GB |
 | ✔️Bandwidth| 25 Mbps |
